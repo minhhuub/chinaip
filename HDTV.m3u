@@ -1,0 +1,144 @@
+#EXTM3U url-tvg="http://gg.gg/epgmytv"
+
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 HD
+rtp://@232.84.1.117:10254
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
+rtp://@232.84.2.31:10594
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
+rtp://@232.84.1.118:10260
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
+rtp://@232.84.3.106:10600
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 HD
+rtp://@232.84.2.33:10606
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/gpIJCN1.jpg",VTV6 HD
+rtp://@232.84.1.119:10266
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 HD
+rtp://@232.84.2.202:10996
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 HD
+rtp://@232.84.3.104:10612
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 HD
+rtp://@232.84.2.35:10618
+#EXTINF:-1 tvg-name="VTVcab 18 - Thể thao Tin tức HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/vBF30yz.jpg",VTVcab 18 THỂ THAO TIN TỨC HD
+rtp://@232.84.2.193:10942
+#EXTINF:-1 tvg-name="VTVcab 23 - Thể thao Golf" group-title="VTVcab" tvg-logo="https://i.imgur.com/krh6my8.png",VTVcab 23 GOLF TV
+rtp://@232.84.2.246:10876
+#EXTINF:-1 tvg-name="VTC1-ClipTV" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
+rtp://@232.84.3.102:10846
+#EXTINF:-1 tvg-name="VTC3HD-ClipTV" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
+rtp://@232.84.1.81:8460
+#EXTINF:-1 tvg-name="VTC4 HD" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
+rtp://@232.84.3.147:10714
+#EXTINF:-1 tvg-name="VTC5-ClipTV" group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 HD
+rtp://@232.84.3.136:10720
+#EXTINF:-1 tvg-name="TODAYTV" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD
+rtp://@232.84.3.120:10726
+#EXTINF:-1 tvg-name="VTC9-ClipTV" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD
+rtp://@232.84.3.141:10732
+#EXTINF:-1 tvg-name="VTC13" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
+rtp://@232.84.1.74:8418
+#EXTINF:-1 tvg-name="HTV7 HD-ClipTV" group-title="HTV/HTVC" tvg-logo="https://imgur.com/6iugioT.jpg",HTV7 HD
+rtp://@232.84.1.223:9312
+#EXTINF:-1 tvg-name="HTV9 HD-ClipTV" group-title="HTV/HTVC" tvg-logo="https://imgur.com/KnpPVUB.jpg",HTV9 HD
+rtp://@232.84.1.224:9318
+#EXTINF:-1 tvg-name="HTVC Phim HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim
+rtp://@232.84.3.118:9594
+#EXTINF:-1 tvg-name="HTVC THUAN VIET HD" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD
+rtp://@232.84.2.134:9600
+#EXTINF:-1 tvg-name="TH NHAN DAN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/kzrCtPg.jpg",Nhân Dân TV
+rtp://@232.84.3.124:10822
+#EXTINF:-1 tvg-name="QUOC HOI" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/713vQig.jpg",QUỐC HỘI
+rtp://@232.84.1.234:10290
+#EXTINF:-1 tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
+rtp://@232.84.3.127:10816
+#EXTINF:-1 tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS
+rtp://@232.84.3.125:10434
+#EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV
+rtp://@232.84.1.212:9246
+#EXTINF:-1 tvg-name="TH CAO BANG" group-title="Địa Phương (SD)" tvg-logo="",CRTV _ TH Cao Bằng
+rtp://@232.84.2.109:8844
+#EXTINF:-1 tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",Animal Planet
+rtp://@232.84.3.139:10702
+#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Quốc Tế (HD)" tvg-logo="",Asian Food Network
+rtp://@232.84.2.129:9570
+#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",AXN
+rtp://@232.84.3.121:10660
+#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",Baby TV
+rtp://@232.84.3.128:10624
+#EXTINF:-1 tvg-name="BLOOMBERG" group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg
+rtp://@232.84.3.157:10696
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)" tvg-logo="",Cartoon Network
+rtp://@232.84.2.144:10684
+#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",[V] HD
+rtp://@232.84.3.144:9588
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="",Clubbing TV
+rtp://@232.84.3.194:11086
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (HD)" tvg-logo="",CNA
+rtp://@232.84.3.155:10540
+#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",CNN
+rtp://@232.84.3.153:10690
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)" tvg-logo="",Da Vinci
+rtp://@232.84.2.131:9582
+#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",Discovery Channel
+rtp://@232.84.3.132:10528
+#EXTINF:-1 tvg-name="Disney" group-title="Quốc Tế (HD)" tvg-logo="",Disney Channel
+rtp://@232.84.2.143:10678
+#EXTINF:-1 tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",DW (English)
+rtp://@232.84.3.154:10416
+#EXTINF:-1 tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV
+rtp://@232.84.3.149:10522
+#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",FOX HD
+rtp://@232.84.2.120:8448
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",FOX LIFE
+rtp://@232.84.1.78:8442
+#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",FOX MOVIES
+rtp://@232.84.1.77:8436
+#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",FOX SPORTS
+rtp://@232.84.3.111:10666
+#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",FOX SPORTS 2
+rtp://@232.84.3.129:10672
+#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)" tvg-logo="",HBO
+rtp://@232.84.3.101:10648
+#EXTINF:-1 tvg-name="Max by HBO" group-title="Quốc Tế (HD)" tvg-logo="",MAX BY HBO
+rtp://@232.84.3.117:10654
+#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC HD
+rtp://@232.84.1.1:7980
+#EXTINF:-1 tvg-name="NatGeoPeople_HD" group-title="Quốc Tế (HD)" tvg-logo="",NAT GEO PEOPLE
+rtp://@232.84.1.76:8430
+#EXTINF:-1 tvg-name="Nat Geo Wild HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",NAT GEO WILD
+rtp://@232.84.2.123:8454
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)" tvg-logo="",NHK WORLD JAPAN
+rtp://@232.84.1.72:8406
+#EXTINF:-1 tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)" tvg-logo="",Outdoor Channel
+rtp://@232.84.1.107:10218
+#EXTINF:-1 tvg-name="Red by HBO (HD)" group-title="Quốc Tế (HD)" tvg-logo="",RED BY HBO
+rtp://@232.84.3.103:10840
+#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Quốc Tế (HD)" tvg-logo="",TLC
+rtp://@232.84.3.156:10708
+#EXTINF:-1 tvg-name="WARNER TV" group-title="Quốc Tế (HD)" tvg-logo="",WBTV
+rtp://@232.84.3.114:10516
+#EXTINF:-1 tvg-name="NatGeoPeople_HD" group-title="Quốc Tế (SD)" tvg-logo="",NAT GEO PEOPLE
+rtp://@232.84.3.162:8376
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (SD)" tvg-logo="",NHK WORLD JAPAN
+rtp://@232.84.1.8:8022
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (SD)" tvg-logo="",NHK Premium
+rtp://@232.84.3.172:10494
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",801
+rtp://@232.84.2.175:10858
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",802
+rtp://@232.84.2.176:10864
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",803
+rtp://@232.84.2.195:10954
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",804
+rtp://@232.84.2.196:10960
+#EXTINF:-1 tvg-name="THVL1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long
+rtp://@232.84.3.152:10882
+#EXTINF:-1 tvg-name="THVL2 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long
+rtp://@232.84.3.164:10888
+#EXTINF:-1 tvg-name="THVL3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long
+rtp://@232.84.3.165:10900
+#EXTINF:-1 tvg-name="THVL4 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long
+rtp://@232.84.3.160:10912
+#EXTINF: -1, Fox Family HD
+rtp://@232.84.3.214:11206
+#EXTINF: -1, Wild HD
+rtp://@232.84.2.123:8454
